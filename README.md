@@ -9,3 +9,10 @@ print("Hello World!")
 ```
 参考:[printf 公式ドキュメント](https://docs.python.org/ja/3/library/functions.html#print)
 
+```
+dir #windows環境でのフォルダ内表示コマンド
+ls #Mac環境でのフォルダ内表示コマンド
+```
+```
+python helloworld.py
+```
