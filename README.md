@@ -3,6 +3,7 @@
 
 [Python3.7ダウンロードページ](https://www.python.org/downloads/)  
 + 参考:pyenv, venv
++ 参考:Homebrew（Mac向け 最近一応Windows向けも出たけどよく分からん）
 
 ```
 print("Hello World!")
@@ -37,6 +38,7 @@ int main(void) {
 + Material Icon Theme
 + Output Colorizer
 + Prettier
++ 扱う言語に応じた支援機能（Python、C/C++など）
 
 ### まとめ
 + AtCoderの過去問がまとまったサイト [AtCoder Problems](https://kenkoooo.com/atcoder/#/table//)
