@@ -1,5 +1,6 @@
 {
     "files.associations": {
         "stdio.h": "c"
-    }
+    },
+    "python.pythonPath": "/Users/okaken/Documents/GitHub/vslearning/venv/bin/python3"
 }

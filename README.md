@@ -31,6 +31,11 @@ int main(void) {
 
 + 参考:デバッグモード
 
+### たのしいライブラリ
++ selenium ブラウザを操作できます
++ tensorflow 時代は機械学習です
++ slackbot 簡単にslackのbotが作れます 大量に作って怒られよう
+
 ### 拡張機能
 + Bracket Pair Colorizer 2
 + Dracula Offical
